@@ -1,6 +1,6 @@
 # Hello my Name is Anna
 
-I have a signature *tooth gap* and I like to smile ... a lot. 
+I have a signature **tooth gap** and I like to smile ... a lot. 
 
 ```
 Do you have a hidden talent?
